@@ -1,0 +1,3 @@
+entity-packages: com.helios.ebean.domains
+querybean-packages: com.helios.ebean.domains
+transactional-packages: com.helios.ebean
